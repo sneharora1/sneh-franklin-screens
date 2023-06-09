@@ -1,0 +1,24 @@
+{
+  "channels": [
+    {
+      "manifestPath": "/content/screens/menus/snack-sprint.manifest.json",
+      "lastModified": "2023-06-09T12:29:16.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "menus",
+          "path": "/content/screens/menus"
+        }
+      ],
+      "externalId": "/content/screens/menus/snack-sprint",
+      "title": "Snack Sprint",
+      "liveUrl": "https://main--sneh-franklin-screens--sneharora1.hlx.live/content/screens/menus/snack-sprint.html"
+    }
+  ],
+  "metadata": {
+    "providerType": "franklin"
+  }
+}
