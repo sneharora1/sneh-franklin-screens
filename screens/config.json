@@ -1,0 +1,20 @@
+{
+"server": "https://or1010051244124.corp.adobe.com:8443",
+"registrationKey": "",
+"resolution": "auto",
+"rebootSchedule": "at 7:00 am",
+"maxNumberOfLogFilesToKeep": 10,
+"logLevel": 1,
+"enableAdminUI": true,
+"enableOSD": true,
+"enableActivityUI": false,
+"enableNativeVideo": false,
+"enableAutoScreenshot": false,
+"cloudMode": true,
+"cloudUrl": "https://screens-stage.adobeioruntime.net",
+"cloudToken": "1t62-sty5-lvv9",
+"enableDeveloperMode": true,
+"enableAdvancedPlaybackMonitoring": false,
+"enableSecondaryStorage": true,
+"enableModifyVideoSource": true
+}
